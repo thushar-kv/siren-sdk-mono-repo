@@ -1,0 +1,20 @@
+{
+  "name": "siren-sdk-mono-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "clean": "lerna clean",
+    "build": "lerna run build --stream",
+    "test": "lerna run test --stream",
+    "start-react": "lerna run start --scope=react-sdk",
+    "start-react-native": "lerna run start --scope=react-native-sdk"
+  },
+  "devDependencies": {
+    "lerna": "^8.0.2"
+  }
+}
