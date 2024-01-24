@@ -1,5 +1,5 @@
 {
-  "name": "react-sdk",
+  "name": "@thusharkv/react-sdk",
   "version": "1.0.0",
   "main": "build/index.js",
   "license": "MIT",
@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "b1cc8fafca0bf8c468ee6172b9b17a8deb7f69b0"
+  "gitHead": "116d8b3f5f91feb2651ca388abe353d05f6b6c29"
 }
