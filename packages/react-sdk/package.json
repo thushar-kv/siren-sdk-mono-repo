@@ -1,6 +1,6 @@
 {
   "name": "react-sdk",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "main": "build/index.js",
   "license": "MIT",
   "files": [
@@ -10,7 +10,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@siren-sdk/core": "^0.1.1",
+    "@siren-sdk/core": "^1.0.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
