@@ -2,6 +2,13 @@
   "name": "react-sdk",
   "version": "0.1.0",
   "main": "build/index.js",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@siren-sdk/core": "^0.1.0",
     "@testing-library/jest-dom": "^5.17.0",
@@ -35,5 +42,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "7cd6aa0cd03664b1e5451a07bffdfeb39b6f9c05"
 }

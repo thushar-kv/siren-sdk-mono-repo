@@ -2,5 +2,12 @@
   "name": "@siren-sdk/core",
   "version": "0.1.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "7cd6aa0cd03664b1e5451a07bffdfeb39b6f9c05"
 }
